@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe@SD" tvg-name="Willax TV" tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="General",Willax TV
-https://cdndirector.dailymotion.com/cdn/live/video/xa63dow.m3u8?sec=COGQ1NPonfOz1SOeuacw7c3z47sLd921xqREysac1ie7W-yOlfgsIeiJ3I6-AvtJFJxBAclhtt7nJMIbKP34sbqrQLAowD0luy5qwgPzvQe7GG6LtaMY2oez8JpH9B95
+http://190.93.224.42/WILLAX/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="General",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="2.1" tvg-id="LatinaClasicos.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Series",Latina Clasicos
