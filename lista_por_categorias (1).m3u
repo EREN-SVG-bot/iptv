@@ -60,7 +60,7 @@ https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live
 #EXTINF:-1 tvg-chno="20.4" tvg-id="FoxSportsPremium.mx@SD" tvg-name="Fox Sports Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/fox-sports-premium-mx.png" group-title="Sports",Fox Sports Premium
 https://edge.cowedd4855ws.sbs/premium830/index.m3u8?t=1792335251.b8145e53d1b6b4bdbe7b19f806b920e7&_=1792335174510
 #EXTINF:-1 tvg-chno="21" tvg-id="TNTSports.ar@SD" tvg-name="TNT Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png" group-title="Sports",TNT Sports
-http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/37542
+74.208.97.73:8000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="MovistarDeportes.pe@SD" tvg-name="Movistar Deportes" tvg-logo="" group-title="Sports",Movistar Deportes
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181756
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg" group-title="Entretenimiento" tvg-name="America TeVe USA",America TeVe USA
