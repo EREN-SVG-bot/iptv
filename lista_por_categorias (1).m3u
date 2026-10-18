@@ -7,11 +7,11 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 #EXTINF:-1 tvg-chno="4" tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="General",America Television 
 https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General" ,Panamericana TV
-https://cdndirector.dailymotion.com/cdn/live/video/xa50i1c.m3u8?sec=cftq1LhueSRph3oDIGjQCi_ng4RIqiPZXFmPlNBP9zp_05mmKK-Ft82Fz__PhElEQ32z9HX7lCNEJU89PE84yM7SHkesGAwBi2v5_C-eW1ULiWQ_4mTDnWOfTcNnWwFL
+http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max 
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="General",TV Peru 
-https://cdnhd.iblups.net/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+http://190.93.224.42/TV-PERU/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur 
 https://ddycmnicl95kp.cloudfront.net/live/jryddd3ktckq/master.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="1065" tvg-name="ATV" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png", ATV
