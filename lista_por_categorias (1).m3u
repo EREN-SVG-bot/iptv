@@ -46,7 +46,7 @@ https://lala4.futlivehd.com/dsports2/tracks-v1a1/mono.m3u8?ip=38.190.101.122&tok
 #EXTINF:-1 tvg-chno="17.3" tvg-id="DSportsPlus.co@SD" tvg-name="DSports+" tvg-logo="" group-title="Sports",DSports+
 https://fala.futlivehd.com/dsportsplus/tracks-v1a1/mono.m3u8?ip=38.190.101.122&token=0cae5c8ba009a678ba0ae0b0acaa081f629a4321-4c-1792378785-1792324785
 #EXTINF:-1 tvg-chno="18" tvg-id="TUDN.us@SD" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" group-title="Sports",TUDN
-https://edge.cowedd4855ws.sbs/premium935/index.m3u8?t=1792333984.ce89b213a883e0d99db06eaeae2e2ba9&_=1792333907844
+https://razen.futlivehd.com/tudnmx/tracks-v1a1/mono.m3u8?ip=38.190.101.122&token=50d84abec6dda1cef8dadad0d455bbae94a7661c-a5-1792379883-1792325883
 #EXTINF:-1 tvg-chno="19" tvg-id="WinSports.co@SD" tvg-name="Win Sports" tvg-logo="" group-title="Sports",Win Sports
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 tvg-chno="19.2" tvg-id="WinSportsPlus.co@SD" tvg-name="Win Sports+" tvg-logo="" group-title="Sports",Win Sports+
