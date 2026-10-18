@@ -40,13 +40,13 @@ http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="TyCSports.ar@SD" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tyc-sports-ar.png" group-title="Sports",TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="DSports.co@SD" tvg-name="DSports" tvg-logo="" group-title="Sports",DSports
-https://c089pa.7m12bgo8dx9z.net:8443/hls/4jva7tj642f9b.m3u8?s=A0VkYCFqausyNSfRpcrsPg&e=1792354749
+https://khala.futlivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=38.190.101.122&token=2d73ba03c97c06649c9f5ca7501dc3c6fc1beb19-e2-1792378679-1792324679
 #EXTINF:-1 tvg-chno="17.2" tvg-id="DSports2.co@SD" tvg-name="DSports 2" tvg-logo="" group-title="Sports",DSports 2
-https://c089pa.7m12bgo8dx9z.net:8443/hls/bfh36g.m3u8?s=bGgbU85x6ZLAyl4kFnQ_3A&e=1792354702
+https://lala4.futlivehd.com/dsports2/tracks-v1a1/mono.m3u8?ip=38.190.101.122&token=11ff47e791144b5203d32840d11ca3eb3f287b40-fa-1792378759-1792324759
 #EXTINF:-1 tvg-chno="17.3" tvg-id="DSportsPlus.co@SD" tvg-name="DSports+" tvg-logo="" group-title="Sports",DSports+
-https://c089pa.7m12bgo8dx9z.net:8443/hls/5sdw4li.m3u8?s=TJJ6Cgahrhdx0xbtKmTgNA&e=1792354660
+https://fala.futlivehd.com/dsportsplus/tracks-v1a1/mono.m3u8?ip=38.190.101.122&token=0cae5c8ba009a678ba0ae0b0acaa081f629a4321-4c-1792378785-1792324785
 #EXTINF:-1 tvg-chno="18" tvg-id="TUDN.us@SD" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" group-title="Sports",TUDN
-https://8.ftlly.com/tudn/mono.m3u8?token=1d5cdff9df2e92a51ea8b78f5a6223294acfd06f-d8-1792212286-1792194286
+https://edge.cowedd4855ws.sbs/premium935/index.m3u8?t=1792333984.ce89b213a883e0d99db06eaeae2e2ba9&_=1792333907844
 #EXTINF:-1 tvg-chno="19" tvg-id="WinSports.co@SD" tvg-name="Win Sports" tvg-logo="" group-title="Sports",Win Sports
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 tvg-chno="19.2" tvg-id="WinSportsPlus.co@SD" tvg-name="Win Sports+" tvg-logo="" group-title="Sports",Win Sports+
