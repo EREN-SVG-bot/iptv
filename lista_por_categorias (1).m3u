@@ -5,7 +5,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-chno="2.1" tvg-id="LatinaClasicos.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Series",Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="General",America Television 
-https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?_=1794581980682&dnt=true&dual_render=1&player=60c2a74e0f4668082e309af4&access_token=enYp9xou2LPwnFek6K5woTDpLs1cqZGOdc2o088ACKiLuYS6RxvQZyQ1OCEdHuSokbcKFNyufrz&uid=FFHT71kVqABeXTSWEzIZ9l4diEdVBvCc&sid=GQbmk2UpOgn0EUn9HfZJrUP41IeU6G5O&pid=YkhGlfJAOHvcCuxJnX4XGMPfVpVE7Rc3&an=tvgo-web-all-per&at=web-app&av=v1.0.122&sc=0&ref=tvgo.americatv.com.pe&res=1920x1080&ext_pb=0&CMCD=cid%3D%226099b04d9418ac082441dd74%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22YkhGlfJAOHvcCuxJnX4XGMPfVpVE7Rc3%22%2Csu
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General" ,Panamericana TV
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max 
