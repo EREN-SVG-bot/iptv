@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe@SD" tvg-name="Willax TV" tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="General",Willax TV
 http://190.93.224.42/WILLAX/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="General",Latina
