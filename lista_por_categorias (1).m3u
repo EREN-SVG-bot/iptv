@@ -6,7 +6,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-chno="2.1" tvg-id="LatinaClasicos.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Series",Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="General",America Television 
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?_=1794597824933&dnt=true&dual_render=1&player=60c2a74e0f4668082e309af4&access_token=Uu0OS62qwJWaRyHSEyyL2Weerk6cc6G9UZtwq7CEuJ1NlenyQAve2Cad7w7BGMmEMv9VaKLpXQ1&uid=FFHT71kVqABeXTSWEzIZ9l4diEdVBvCc&sid=MdMso0swPSQKu4ZViyBXKBK5ZKaVZ4kr&pid=N2N5NWvXA3skAJoU3vlAm4tcOT9r8QsX&an=tvgo-web-all-per&at=web-app&av=v1.0.122&sc=0&ref=tvgo.americatv.com.pe&res=1920x1080&ext_pb=0&CMCD=cid%3D%226099b04d9418ac082441dd74%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22N2N5NWvXA3skAJoU3vlAm4tcOT9r8QsX%22%2Csu
+http://190.93.224.42/AMERICA-TV/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General" ,Panamericana TV
 https://cdndirector.dailymotion.com/cdn/live/video/xa50i1c.m3u8?sec=5H933T2JQrzJSqykn9OjJS4FtDNOAcF7uoJka_BgqeQ20nvCz2nqw-I4JPaA_DjDL0Wh3drA4b8ioQFuJhzwH0yI3zmLftnxEabQQguN46JRiYcKffek9atOitK8GoZz
 #EXTINF:-1 tvg-chno="6" tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max 
