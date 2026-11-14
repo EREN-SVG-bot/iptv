@@ -8,7 +8,7 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 #EXTINF:-1 tvg-chno="4" tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="General",America Television 
 http://190.93.224.42/AMERICA-TV/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General" ,Panamericana TV
-https://cdndirector.dailymotion.com/cdn/live/video/xa50i1c.m3u8?sec=5H933T2JQrzJSqykn9OjJS4FtDNOAcF7uoJka_BgqeQ20nvCz2nqw-I4JPaA_DjDL0Wh3drA4b8ioQFuJhzwH0yI3zmLftnxEabQQguN46JRiYcKffek9atOitK8GoZz
+http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max 
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="General",TV Peru 
